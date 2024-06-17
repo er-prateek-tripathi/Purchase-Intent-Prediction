@@ -1,0 +1,13 @@
+Potential Classification Models
+1. Logistic Regression
+2. Decision Trees
+3. Random Forest
+4. Gradient Boosting Machines
+5. Neural Networks
+6. Support Vector Machines
+7. K Nearest Neighbors
+8. Association Rules
+9. Naive Bayes
+10. Ensemble Learning
+11. Anomaly Detection Methods
+12. 

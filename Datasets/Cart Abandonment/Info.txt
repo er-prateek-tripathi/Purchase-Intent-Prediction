@@ -1,0 +1,25 @@
+1. ID: The session id of the customer.
+
+2. Is_Product_Details_viewed: Whether the customer is viewing the product details or not.
+
+3. Session_Activity_Count: How many times a customer is going to the different pages.
+
+4. No_Items_Added_InCart: Number of items in cart.
+
+5. No_Items_Removed_FromCart: Number of items removed from the cart.
+
+6. No_Cart_Viewed: How many times the customer is going to the cart page.
+
+7. No_Checkout_Confirmed: How many times the checkout has been confirmed successfully by the customer.
+
+8. No_Checkout_Initiated: How many times the checkout(successful as well as unsuccess) is being done by the user.
+
+9. No_Cart_Items_Viewed: How many times a user is viewing the product from cart.
+
+10. No_Customer_Login: Number of times the customer had did log in.
+
+11. No_Page_Viewed: Number of pages viewed by the customer.
+
+12. Customer_Segment_Type: The customer falls under which category,i.e, 0 for Target Customer, 1 for Loyal Customer, and 2 for Untargeted customer.
+
+13. Cart_Abandoned: Whether the customer is doing cart abandonment or not. This is the target variable that we need to predict.

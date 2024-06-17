@@ -1,0 +1,6 @@
+no. of item added in cart
+no. of item removed from cart
+no. of checkout initiated based on some columns(Check before implying)
+cart abandoned
+types of traffic according to traffic id in traffictype column
+revenue amount whrer revenue is yes

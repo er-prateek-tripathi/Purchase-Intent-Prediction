@@ -1,0 +1,25 @@
+Models that can be used:
+
+Markov chains
+Logistic Regression
+decision trees
+Naive 
+Bayes
+C4.5
+Random Forest
+gradient boosting
+SVM
+Multilayer Perceptron
+XGBoost Classifier
+oversampling and undersampling techniques
+
+
+
+Result Check
+F1 Score
+Accuracy
+Sensitivity
+Specificity
+ROC
+Precision Recall
+

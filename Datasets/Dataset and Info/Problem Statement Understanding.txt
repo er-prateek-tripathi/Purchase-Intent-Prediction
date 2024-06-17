@@ -1,0 +1,53 @@
+The shopping cart abandonment rate is an important metric for ecommerce sites to keep track of because a high abandonment rate could signal a poor user experience or broken sales funnel. Reducing shopping cart abandonment leads directly to more sales and revenue, so optimizing the checkout flow is a core area of focus for many online retailers.
+
+Cart abandonment rates peak in December when Black Friday and holiday sales lure impulsive shoppers.
+
+Research from Baymard Institute shows that 69.82% of online shopping carts are abandoned.
+
+In other words, for every 10 customers who add an item to their shopping cart, seven of them leave without completing the purchase. Ecommerce stores lose $18 billion in sales revenue annually because of cart abandonment.
+
+The average eCommerce store loses 75% of their sales to digital cart abandonment.
+
+
+
+why visitors are abandoning their carts?
+1. Lack of trust: people still prefer to have a look before paying online.
+2. mode of payment: people still prefer cash on delivery
+3. second page drop off: loose interest in product. solution: limited time incentives
+4. High shopping costs: this happens mostly because of shipping charges. We can provide promos on shipping charges      waiver.
+5. Complex checkout process: Online shoppers have low attention span, keep checkout process easy and swift.
+6. Window shoppers: To entice window shoppers, incentivize them with promotional offers and creating sense of urgency
+7. Lack of Payment Options: Some products don't have COD, provide other methods but with incentives
+8. High Price: Provide coupons to regular users and provide limited period offers to new users.
+9. Technical Issues: Daily review of analytics and confirming the load time is within the attention span of users.
+10. Mandatory Account Creation: People don't want to put so much effort for just a one time purchase.
+11. No Discounts or promocodes to Regular Users. Promos only for new users.
+12. Longer Delivery times: 
+13. Bad Return and refund policy, New Return to service centre policy of amazon.
+14. Payment Security Concerns
+15. Product Quantity restrictions: Some products have a fixed buying quantity, like you cant buy a single Dr oetkar mayo, You need to buy at least two. This annoys the user.
+16. Comparison Shopping: Most of the time people find cheaper cost of same product on another websites
+17. 
+
+
+
+Possible solutions to cart abandonment
+1. Send abandon cart emails with some coupon codes to entice them to purchase the product. Tailored content makes consumers 40% more likely to engage with ads and make a purchase.
+2. Ads regarding the abandonee products specifically so that user can remember that they abandoned the cart.
+3. A/B Testing
+4. Facilitate new users: Providing Guest Checkout options to new users, but need account for second purchase from same IP.
+5. Keep product in mind: Include thumbnail of product pics and info through out the checkout process. In case user add multiple products to cart, they might forget a few of them, so thumbnails will direct their minds to the cart.
+6. Progress UI: Including a eye catching progress bar for checkout will assure the user that the pricess is not too long and they will continue with checkout.
+7. Checkout Reminder: if a customer adds an item to their cart but doesn’t initiate the checkout flow, you can set a pop-up to remind customers
+8. Navigation: Keep the UI as easy as possible so that the user can navigate from cart to product list as soon as they click.
+9. Support: Chat support for each and every product in the order list. Hustle free customer support.
+10. Credible Social Reviews: If user gets a feeling that the reviews are paid, They wont buy. Keep those reviews on top which look credible.
+11. Proof of credibility through signals: National or international standards comparison to quality of product and its manufacturing standards.
+12. Exit intent pop up to remind them to do checkout before exiting.
+13. 
+
+
+Calculation
+Shopping cart abandonment rate is calculated by dividing the total number of completed transactions by the number of initiated sales. (adds to basket). 
+
+Potential KPI: Cart Abandonment Rate

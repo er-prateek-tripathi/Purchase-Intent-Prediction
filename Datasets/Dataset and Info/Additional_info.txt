@@ -1,0 +1,28 @@
+Traffic Category
+Direct Search: Entering the product name directly into Amazon's search bar.
+Organic Search: Finding the product through search engine results (e.g., Google) and clicking on the Amazon link.
+Amazon Email Promotions: Receiving an email from Amazon promoting the product.
+Amazon Homepage Recommendations: Discovering the product through personalized recommendations on the Amazon homepage.
+Amazon Sponsored Products: Clicking on a sponsored product ad while browsing other products on Amazon.
+Social Media Ads: Seeing advertisements for the product on social media platforms (e.g., Facebook, Instagram).
+Product Reviews: Reading positive reviews or watching video reviews on YouTube that mention the product.
+Amazon Mobile App: Browsing the product while using the Amazon mobile app.
+Amazon Alexa: Asking an Amazon Alexa-enabled device about the product and subsequently viewing it on the Amazon website.
+Affiliate Websites/Blogs: Finding the product through affiliate links on various websites or blogs.
+Amazon Deals & Coupons Websites: Discovering the product through deals and coupons websites that feature Amazon discounts.
+Price Comparison Websites: Finding the product while comparing prices across different retailers, with Amazon being one of the options.
+Amazon Prime Video: Seeing the product being used or mentioned in movies, TV shows, or documentaries available on Amazon Prime Video.
+Google Shopping: Finding the product through Google Shopping results and navigating to Amazon to make a purchase.
+Amazon Remarketing Ads: Being targeted with ads for the product after visiting other websites or engaging with Amazon's website.
+Amazon Affiliate Marketing: Discovering the product through affiliate marketing efforts where publishers promote Amazon products on their websites or platforms.
+Amazon Display Ads: Seeing display advertisements for the product on various websites or apps through Amazon's advertising network.
+Amazon Prime Day Deals: Discovering the product through special promotions and deals offered during Amazon Prime Day events.
+Amazon Product Comparison: Comparing the product with similar items using Amazon's product comparison feature.
+Amazon Sponsored Brands: Encountering the product as part of a sponsored brand campaign displayed prominently on Amazon's search results page.
+
+logic on Order_amount_column
+
+https://www.junglescout.com/blog/amazon-statistics/
+amazons revenue = 1.4 billion dollars
+amazon customers = 310 million
+amaount spend (average) = 4.51 dollars
